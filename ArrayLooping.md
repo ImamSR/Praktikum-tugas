@@ -36,3 +36,21 @@ int main() {
   return 0;
 }
 ```
+## Deret ;
+
+```cpp
+#include<iostream>
+using namespace std;
+
+int main (){
+    int kali = 0;
+    
+    while (kali<10){
+        cout << kali * 2 << " Merupakan bilangan yang  di kali : " << kali << "x2\n";
+        kali++;
+    }
+    return 0;
+}
+```
+
+
